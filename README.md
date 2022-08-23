@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Theo</h1>
-<h3 align="center">I am a trillionare</h3>
+<h3 align="center">I am a trillionare, he/him</h3>
 
 - 🔭 I’m currently working on **this AI thing**
 
