@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Python and c#.**
 
-<h3 align="left">Connect with me: **carrier pigeon**</h3>
+<h3 align="left">Connect with me: carrier pigeon</h3>
 <p align="left">
 </p>
 
